@@ -1,0 +1,3 @@
+
+# For computational pipelines (optional)
+Celery==5.1.2
